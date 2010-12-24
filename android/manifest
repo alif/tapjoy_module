@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+description: Tapjoy module
+author: Ali Faiz
+license: MIT License
+copyright: Copyright (c) 2010 by Ali Faiz
+
+
+# these should not be edited
+name: tapjoy
+moduleid: com.tapjoy
+guid: 38ea0ddf-98b9-4d18-87f0-d190f5eebaf2
+platform: android
+minsdk: 1.5.1
