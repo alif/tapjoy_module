@@ -1,0 +1,897 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = D2AAC07D0554694100DB518D /* tapjoy */;
+		addToTargets = (
+			D2AAC07D0554694100DB518D /* tapjoy */,
+		);
+		codeSenseManager = 95F32A8812C3F7A800D3375D /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					817,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					777,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314836038;
+			PBXWorkspaceStateSaveDate = 314836038;
+		};
+		perUserProjectItems = {
+			95F32B0A12C3FB6C00D3375D = 95F32B0A12C3FB6C00D3375D /* PBXTextBookmark */;
+			95F32B1B12C3FBCD00D3375D = 95F32B1B12C3FBCD00D3375D /* PBXTextBookmark */;
+			95F32B1C12C3FBCD00D3375D = 95F32B1C12C3FBCD00D3375D /* PBXTextBookmark */;
+			95F32B1D12C3FBCD00D3375D = 95F32B1D12C3FBCD00D3375D /* PBXTextBookmark */;
+			95F32B1E12C3FBCD00D3375D = 95F32B1E12C3FBCD00D3375D /* PBXTextBookmark */;
+			95F32B2112C4042600D3375D = 95F32B2112C4042600D3375D /* PBXTextBookmark */;
+			95F32B3C12C40C3B00D3375D /* PBXTextBookmark */ = 95F32B3C12C40C3B00D3375D /* PBXTextBookmark */;
+			95F32B3D12C40C3B00D3375D /* PBXTextBookmark */ = 95F32B3D12C40C3B00D3375D /* PBXTextBookmark */;
+			95F32B4012C40C3C00D3375D /* PBXTextBookmark */ = 95F32B4012C40C3C00D3375D /* PBXTextBookmark */;
+			95F32B4112C40C3C00D3375D /* PBXTextBookmark */ = 95F32B4112C40C3C00D3375D /* PBXTextBookmark */;
+			95F32B4212C40C3C00D3375D /* PBXTextBookmark */ = 95F32B4212C40C3C00D3375D /* PBXTextBookmark */;
+			95F32B4312C40C3C00D3375D /* PBXTextBookmark */ = 95F32B4312C40C3C00D3375D /* PBXTextBookmark */;
+			95F32B4412C40C3C00D3375D /* PBXTextBookmark */ = 95F32B4412C40C3C00D3375D /* PBXTextBookmark */;
+			95F32B4512C40C3C00D3375D /* PBXTextBookmark */ = 95F32B4512C40C3C00D3375D /* PBXTextBookmark */;
+			95F32B4612C40C3C00D3375D /* PBXTextBookmark */ = 95F32B4612C40C3C00D3375D /* PBXTextBookmark */;
+			95F32B4712C40C3C00D3375D /* PBXTextBookmark */ = 95F32B4712C40C3C00D3375D /* PBXTextBookmark */;
+			95F32B4C12C40C7100D3375D /* PBXTextBookmark */ = 95F32B4C12C40C7100D3375D /* PBXTextBookmark */;
+			95F32B4D12C40C7100D3375D /* PBXTextBookmark */ = 95F32B4D12C40C7100D3375D /* PBXTextBookmark */;
+			95F32B4E12C40C7100D3375D /* PBXTextBookmark */ = 95F32B4E12C40C7100D3375D /* PBXTextBookmark */;
+			95F32B4F12C40C7100D3375D /* PBXTextBookmark */ = 95F32B4F12C40C7100D3375D /* PBXTextBookmark */;
+			95F32B5012C40C7C00D3375D /* PBXTextBookmark */ = 95F32B5012C40C7C00D3375D /* PBXTextBookmark */;
+			95F32B5112C40C7D00D3375D /* PBXTextBookmark */ = 95F32B5112C40C7D00D3375D /* PBXTextBookmark */;
+			95F32B5212C40D7600D3375D /* PBXTextBookmark */ = 95F32B5212C40D7600D3375D /* PBXTextBookmark */;
+			95F32B5312C40F0E00D3375D /* PBXTextBookmark */ = 95F32B5312C40F0E00D3375D /* PBXTextBookmark */;
+			95F32B5A12C4103500D3375D /* PBXTextBookmark */ = 95F32B5A12C4103500D3375D /* PBXTextBookmark */;
+			95F32B5B12C4103500D3375D /* PBXTextBookmark */ = 95F32B5B12C4103500D3375D /* PBXTextBookmark */;
+			95F32B5C12C4103500D3375D /* PBXTextBookmark */ = 95F32B5C12C4103500D3375D /* PBXTextBookmark */;
+			95F32B5D12C4103500D3375D /* PBXTextBookmark */ = 95F32B5D12C4103500D3375D /* PBXTextBookmark */;
+			95F32B5E12C411A800D3375D /* PBXTextBookmark */ = 95F32B5E12C411A800D3375D /* PBXTextBookmark */;
+			95F32B5F12C411A800D3375D /* PBXTextBookmark */ = 95F32B5F12C411A800D3375D /* PBXTextBookmark */;
+			95F32B6012C411A800D3375D /* PBXTextBookmark */ = 95F32B6012C411A800D3375D /* PBXTextBookmark */;
+			95F32B6712C4124500D3375D /* PBXTextBookmark */ = 95F32B6712C4124500D3375D /* PBXTextBookmark */;
+			95F32B6C12C4127C00D3375D /* XCBuildMessageTextBookmark */ = 95F32B6C12C4127C00D3375D /* XCBuildMessageTextBookmark */;
+			95F32B6D12C4127C00D3375D /* PBXTextBookmark */ = 95F32B6D12C4127C00D3375D /* PBXTextBookmark */;
+			95F32B6E12C4127C00D3375D /* PBXTextBookmark */ = 95F32B6E12C4127C00D3375D /* PBXTextBookmark */;
+			95F32B7312C4129C00D3375D /* PBXTextBookmark */ = 95F32B7312C4129C00D3375D /* PBXTextBookmark */;
+			95F32B7412C4129C00D3375D /* XCBuildMessageTextBookmark */ = 95F32B7412C4129C00D3375D /* XCBuildMessageTextBookmark */;
+			95F32B7512C4129C00D3375D /* PBXTextBookmark */ = 95F32B7512C4129C00D3375D /* PBXTextBookmark */;
+			95F32B7A12C415C700D3375D /* PBXTextBookmark */ = 95F32B7A12C415C700D3375D /* PBXTextBookmark */;
+			95F32B7B12C415C700D3375D /* PBXTextBookmark */ = 95F32B7B12C415C700D3375D /* PBXTextBookmark */;
+			95F32B7C12C415C700D3375D /* PBXTextBookmark */ = 95F32B7C12C415C700D3375D /* PBXTextBookmark */;
+			95F32B7D12C415D400D3375D /* PBXTextBookmark */ = 95F32B7D12C415D400D3375D /* PBXTextBookmark */;
+			95F32B7E12C415DE00D3375D /* PBXTextBookmark */ = 95F32B7E12C415DE00D3375D /* PBXTextBookmark */;
+			95F32B7F12C415F300D3375D /* PBXTextBookmark */ = 95F32B7F12C415F300D3375D /* PBXTextBookmark */;
+			95F32B8012C4162F00D3375D /* PBXTextBookmark */ = 95F32B8012C4162F00D3375D /* PBXTextBookmark */;
+			95F32B8112C4162F00D3375D /* PBXTextBookmark */ = 95F32B8112C4162F00D3375D /* PBXTextBookmark */;
+			95F32B8212C4162F00D3375D /* PBXTextBookmark */ = 95F32B8212C4162F00D3375D /* PBXTextBookmark */;
+			95F32B8312C4162F00D3375D /* PBXTextBookmark */ = 95F32B8312C4162F00D3375D /* PBXTextBookmark */;
+			95F32B8612C4169800D3375D /* PBXTextBookmark */ = 95F32B8612C4169800D3375D /* PBXTextBookmark */;
+			95F32B8B12C4176000D3375D /* PBXTextBookmark */ = 95F32B8B12C4176000D3375D /* PBXTextBookmark */;
+			95F32B8C12C4177D00D3375D /* XCBuildMessageTextBookmark */ = 95F32B8C12C4177D00D3375D /* XCBuildMessageTextBookmark */;
+			95F32B8D12C4177D00D3375D /* PBXTextBookmark */ = 95F32B8D12C4177D00D3375D /* PBXTextBookmark */;
+			95F32B9812C417C300D3375D /* PBXTextBookmark */ = 95F32B9812C417C300D3375D /* PBXTextBookmark */;
+			95F32B9912C4181D00D3375D /* PBXTextBookmark */ = 95F32B9912C4181D00D3375D /* PBXTextBookmark */;
+			95F32BA012C418F100D3375D /* PBXTextBookmark */ = 95F32BA012C418F100D3375D /* PBXTextBookmark */;
+			95F32BAA12C419BA00D3375D /* PBXTextBookmark */ = 95F32BAA12C419BA00D3375D /* PBXTextBookmark */;
+			95F32BAB12C419BA00D3375D /* PBXTextBookmark */ = 95F32BAB12C419BA00D3375D /* PBXTextBookmark */;
+			95F32BAC12C419BA00D3375D /* PBXTextBookmark */ = 95F32BAC12C419BA00D3375D /* PBXTextBookmark */;
+			95F32BAD12C419DB00D3375D /* PBXTextBookmark */ = 95F32BAD12C419DB00D3375D /* PBXTextBookmark */;
+			95F32BAE12C419DB00D3375D /* PBXTextBookmark */ = 95F32BAE12C419DB00D3375D /* PBXTextBookmark */;
+			95F32BAF12C419DB00D3375D /* PBXTextBookmark */ = 95F32BAF12C419DB00D3375D /* PBXTextBookmark */;
+			95F32BB412C419E700D3375D /* PBXTextBookmark */ = 95F32BB412C419E700D3375D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 95F32A8712C3F7A800D3375D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	24416B8111C4CA220047AFDD /* Build & Test */ = {
+		activeExec = 0;
+	};
+	24DD6CF71134B3F500162E58 /* ComTapjoyModule.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 474}}";
+			sepNavSelRange = "{189, 0}";
+			sepNavVisRange = "{0, 265}";
+		};
+	};
+	24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 1352}}";
+			sepNavSelRange = "{2289, 0}";
+			sepNavVisRange = "{0, 708}";
+			sepNavWindowFrame = "{{15, 561}, {1109, 612}}";
+		};
+	};
+	24DD6D1B1134B66800162E58 /* titanium.xcconfig */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 474}}";
+			sepNavSelRange = "{476, 0}";
+			sepNavVisRange = "{0, 478}";
+			sepNavWindowFrame = "{{38, 540}, {1109, 612}}";
+		};
+	};
+	24DE9E0F11C5FE74003F90F6 /* ComTapjoyModuleAssets.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 449}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 157}";
+		};
+	};
+	24DE9E1011C5FE74003F90F6 /* ComTapjoyModuleAssets.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 474}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 258}";
+		};
+	};
+	95F32A8712C3F7A800D3375D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	95F32A8812C3F7A800D3375D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	95F32A8F12C3F7F200D3375D /* TapjoyConnect.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = TapjoyConnect.h;
+		path = /Users/alifaiz/TapjoyConnectSDK_iPhone_v7.3.0/TapjoyConnect/TapjoyConnect.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3274, 1976}}";
+			sepNavSelRange = "{2302, 0}";
+			sepNavVisRange = "{1442, 2162}";
+		};
+	};
+	95F32A9012C3F7F200D3375D /* TapjoyConnect.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = TapjoyConnect.m;
+		path = /Users/alifaiz/TapjoyConnectSDK_iPhone_v7.3.0/TapjoyConnect/TapjoyConnect.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1111, 4979}}";
+			sepNavSelRange = "{8520, 0}";
+			sepNavVisRange = "{0, 940}";
+		};
+	};
+	95F32B0A12C3FB6C00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6D1B1134B66800162E58 /* titanium.xcconfig */;
+		name = "titanium.xcconfig: 17";
+		rLen = 0;
+		rLoc = 476;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	95F32B1B12C3FBCD00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32A9012C3F7F200D3375D /* TapjoyConnect.m */;
+		name = "TapjoyConnect.m: 329";
+		rLen = 0;
+		rLoc = 8520;
+		rType = 0;
+		vrLen = 940;
+		vrLoc = 0;
+	};
+	95F32B1C12C3FBCD00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 10";
+		rLen = 0;
+		rLoc = 252;
+		rType = 0;
+		vrLen = 744;
+		vrLoc = 0;
+	};
+	95F32B1D12C3FBCD00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF71134B3F500162E58 /* ComTapjoyModule.h */;
+		name = "ComTapjoyModule.h: 8";
+		rLen = 0;
+		rLoc = 189;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 0;
+	};
+	95F32B1E12C3FBCD00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32A8F12C3F7F200D3375D /* TapjoyConnect.h */;
+		name = "TapjoyConnect.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1905;
+		vrLoc = 0;
+	};
+	95F32B2112C4042600D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32A8F12C3F7F200D3375D /* TapjoyConnect.h */;
+		name = "TapjoyConnect.h: 46";
+		rLen = 0;
+		rLoc = 2302;
+		rType = 0;
+		vrLen = 2162;
+		vrLoc = 1442;
+	};
+	95F32B2D12C4046000D3375D /* TapjoyConnect.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = TapjoyConnect.h;
+		path = /Users/alifaiz/Work/TapjoyConnectSDK_iPhone_v7.3.0/TapjoyConnect/TapjoyConnect.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3274, 2158}}";
+			sepNavSelRange = "{1812, 7}";
+			sepNavVisRange = "{1488, 815}";
+		};
+	};
+	95F32B2E12C4046000D3375D /* TapjoyConnect.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = TapjoyConnect.m;
+		path = /Users/alifaiz/Work/TapjoyConnectSDK_iPhone_v7.3.0/TapjoyConnect/TapjoyConnect.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {803, 5343}}";
+			sepNavSelRange = "{767, 0}";
+			sepNavVisRange = "{579, 575}";
+		};
+	};
+	95F32B3C12C40C3B00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32B2D12C4046000D3375D /* TapjoyConnect.h */;
+		rLen = 7;
+		rLoc = 1812;
+		rType = 0;
+	};
+	95F32B3D12C40C3B00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32B2D12C4046000D3375D /* TapjoyConnect.h */;
+		name = "TapjoyConnect.h: 35";
+		rLen = 7;
+		rLoc = 1812;
+		rType = 0;
+		vrLen = 815;
+		vrLoc = 1488;
+	};
+	95F32B4012C40C3C00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32B2E12C4046000D3375D /* TapjoyConnect.m */;
+		name = "TapjoyConnect.m: 318";
+		rLen = 0;
+		rLoc = 8214;
+		rType = 0;
+		vrLen = 394;
+		vrLoc = 9106;
+	};
+	95F32B4112C40C3C00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AA747D9E0F9514B9006C5449 /* ComTapjoy_Prefix.pch */;
+		name = "ComTapjoy_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 62;
+		vrLoc = 0;
+	};
+	95F32B4212C40C3C00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF71134B3F500162E58 /* ComTapjoyModule.h */;
+		name = "ComTapjoyModule.h: 8";
+		rLen = 0;
+		rLoc = 189;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 0;
+	};
+	95F32B4312C40C3C00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6D1B1134B66800162E58 /* titanium.xcconfig */;
+		name = "titanium.xcconfig: 17";
+		rLen = 0;
+		rLoc = 476;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	95F32B4412C40C3C00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DE9E1011C5FE74003F90F6 /* ComTapjoyModuleAssets.m */;
+		name = "ComTapjoyModuleAssets.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 258;
+		vrLoc = 0;
+	};
+	95F32B4512C40C3C00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DE9E0F11C5FE74003F90F6 /* ComTapjoyModuleAssets.h */;
+		name = "ComTapjoyModuleAssets.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 157;
+		vrLoc = 0;
+	};
+	95F32B4612C40C3C00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 36";
+		rLen = 52;
+		rLoc = 708;
+		rType = 0;
+		vrLen = 887;
+		vrLoc = 1252;
+	};
+	95F32B4712C40C3C00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32B2D12C4046000D3375D /* TapjoyConnect.h */;
+		name = "TapjoyConnect.h: 35";
+		rLen = 7;
+		rLoc = 1812;
+		rType = 0;
+		vrLen = 1905;
+		vrLoc = 0;
+	};
+	95F32B4C12C40C7100D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32B2D12C4046000D3375D /* TapjoyConnect.h */;
+		name = "TapjoyConnect.h: 35";
+		rLen = 7;
+		rLoc = 1812;
+		rType = 0;
+		vrLen = 1905;
+		vrLoc = 0;
+	};
+	95F32B4D12C40C7100D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DE9E0F11C5FE74003F90F6 /* ComTapjoyModuleAssets.h */;
+		name = "ComTapjoyModuleAssets.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 157;
+		vrLoc = 0;
+	};
+	95F32B4E12C40C7100D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DE9E1011C5FE74003F90F6 /* ComTapjoyModuleAssets.m */;
+		name = "ComTapjoyModuleAssets.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 258;
+		vrLoc = 0;
+	};
+	95F32B4F12C40C7100D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 92";
+		rLen = 0;
+		rLoc = 2289;
+		rType = 0;
+		vrLen = 744;
+		vrLoc = 0;
+	};
+	95F32B5012C40C7C00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32B2D12C4046000D3375D /* TapjoyConnect.h */;
+		name = "TapjoyConnect.h: 35";
+		rLen = 7;
+		rLoc = 1812;
+		rType = 0;
+		vrLen = 815;
+		vrLoc = 1488;
+	};
+	95F32B5112C40C7D00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 92";
+		rLen = 0;
+		rLoc = 2289;
+		rType = 0;
+		vrLen = 744;
+		vrLoc = 0;
+	};
+	95F32B5212C40D7600D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 91";
+		rLen = 0;
+		rLoc = 2045;
+		rType = 0;
+		vrLen = 793;
+		vrLoc = 1370;
+	};
+	95F32B5312C40F0E00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 89";
+		rLen = 0;
+		rLoc = 2024;
+		rType = 0;
+		vrLen = 748;
+		vrLoc = 1417;
+	};
+	95F32B5612C40FBE00D3375D /* ComTapjoyProxy.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ComTapjoyProxy.h;
+		path = /Users/alifaiz/Work/tapjoy/ComTapjoyProxy.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 449}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 316}";
+		};
+	};
+	95F32B5712C40FBE00D3375D /* ComTapjoyProxy.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ComTapjoyProxy.m;
+		path = /Users/alifaiz/Work/tapjoy/ComTapjoyProxy.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 449}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 327}";
+		};
+	};
+	95F32B5A12C4103500D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32B5712C40FBE00D3375D /* ComTapjoyProxy.m */;
+		name = "ComTapjoyProxy.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 327;
+		vrLoc = 0;
+	};
+	95F32B5B12C4103500D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32B5612C40FBE00D3375D /* ComTapjoyProxy.h */;
+		name = "ComTapjoyProxy.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+	95F32B5C12C4103500D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 89";
+		rLen = 0;
+		rLoc = 2024;
+		rType = 0;
+		vrLen = 748;
+		vrLoc = 1417;
+	};
+	95F32B5D12C4103500D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 93";
+		rLen = 0;
+		rLoc = 2075;
+		rType = 0;
+		vrLen = 772;
+		vrLoc = 1417;
+	};
+	95F32B5E12C411A800D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DE9E0F11C5FE74003F90F6 /* ComTapjoyModuleAssets.h */;
+		name = "ComTapjoyModuleAssets.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 157;
+		vrLoc = 0;
+	};
+	95F32B5F12C411A800D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 93";
+		rLen = 0;
+		rLoc = 2075;
+		rType = 0;
+		vrLen = 869;
+		vrLoc = 1315;
+	};
+	95F32B6012C411A800D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 93";
+		rLen = 0;
+		rLoc = 2075;
+		rType = 0;
+		vrLen = 777;
+		vrLoc = 1419;
+	};
+	95F32B6712C4124500D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 95";
+		rLen = 0;
+		rLoc = 2289;
+		rType = 0;
+		vrLen = 780;
+		vrLoc = 1419;
+	};
+	95F32B6C12C4127C00D3375D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'device_name' undeclared (first use in this function)";
+		fRef = 95F32B2E12C4046000D3375D /* TapjoyConnect.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 32;
+		rType = 1;
+	};
+	95F32B6D12C4127C00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32B2E12C4046000D3375D /* TapjoyConnect.m */;
+		name = "TapjoyConnect.m: 33";
+		rLen = 0;
+		rLoc = 764;
+		rType = 0;
+		vrLen = 573;
+		vrLoc = 579;
+	};
+	95F32B6E12C4127C00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32B2D12C4046000D3375D /* TapjoyConnect.h */;
+		name = "TapjoyConnect.h: 35";
+		rLen = 7;
+		rLoc = 1812;
+		rType = 0;
+		vrLen = 815;
+		vrLoc = 1488;
+	};
+	95F32B7312C4129C00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 95";
+		rLen = 0;
+		rLoc = 2289;
+		rType = 0;
+		vrLen = 774;
+		vrLoc = 1419;
+	};
+	95F32B7412C4129C00D3375D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'device_name' undeclared (first use in this function)";
+		fRef = 95F32B2E12C4046000D3375D /* TapjoyConnect.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 32;
+		rType = 1;
+	};
+	95F32B7512C4129C00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32B2E12C4046000D3375D /* TapjoyConnect.m */;
+		name = "TapjoyConnect.m: 33";
+		rLen = 2;
+		rLoc = 765;
+		rType = 0;
+		vrLen = 1210;
+		vrLoc = 294;
+	};
+	95F32B7A12C415C700D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32B2E12C4046000D3375D /* TapjoyConnect.m */;
+		name = "TapjoyConnect.m: 318";
+		rLen = 0;
+		rLoc = 8184;
+		rType = 0;
+		vrLen = 738;
+		vrLoc = 8253;
+	};
+	95F32B7B12C415C700D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 91";
+		rLen = 0;
+		rLoc = 2045;
+		rType = 0;
+		vrLen = 776;
+		vrLoc = 1417;
+	};
+	95F32B7C12C415C700D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 91";
+		rLen = 0;
+		rLoc = 2045;
+		rType = 0;
+		vrLen = 775;
+		vrLoc = 1417;
+	};
+	95F32B7D12C415D400D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 91";
+		rLen = 0;
+		rLoc = 2045;
+		rType = 0;
+		vrLen = 775;
+		vrLoc = 1417;
+	};
+	95F32B7E12C415DE00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 91";
+		rLen = 0;
+		rLoc = 2045;
+		rType = 0;
+		vrLen = 775;
+		vrLoc = 1417;
+	};
+	95F32B7F12C415F300D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 36";
+		rLen = 0;
+		rLoc = 709;
+		rType = 0;
+		vrLen = 739;
+		vrLoc = 287;
+	};
+	95F32B8012C4162F00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32B2D12C4046000D3375D /* TapjoyConnect.h */;
+		name = "TapjoyConnect.h: 35";
+		rLen = 7;
+		rLoc = 1812;
+		rType = 0;
+		vrLen = 1882;
+		vrLoc = 23;
+	};
+	95F32B8112C4162F00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32B2E12C4046000D3375D /* TapjoyConnect.m */;
+		name = "TapjoyConnect.m: 318";
+		rLen = 2;
+		rLoc = 8185;
+		rType = 0;
+		vrLen = 630;
+		vrLoc = 8075;
+	};
+	95F32B8212C4162F00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 36";
+		rLen = 0;
+		rLoc = 709;
+		rType = 0;
+		vrLen = 739;
+		vrLoc = 287;
+	};
+	95F32B8312C4162F00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 36";
+		rLen = 0;
+		rLoc = 709;
+		rType = 0;
+		vrLen = 756;
+		vrLoc = 391;
+	};
+	95F32B8612C4169800D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 36";
+		rLen = 0;
+		rLoc = 757;
+		rType = 0;
+		vrLen = 760;
+		vrLoc = 391;
+	};
+	95F32B8B12C4176000D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 86";
+		rLen = 0;
+		rLoc = 1996;
+		rType = 0;
+		vrLen = 786;
+		vrLoc = 1374;
+	};
+	95F32B8C12C4177D00D3375D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'moduleId' undeclared (first use in this function)";
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 35;
+		rType = 1;
+	};
+	95F32B8D12C4177D00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 36";
+		rLen = 0;
+		rLoc = 757;
+		rType = 0;
+		vrLen = 713;
+		vrLoc = 196;
+	};
+	95F32B9812C417C300D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 36";
+		rLen = 0;
+		rLoc = 757;
+		rType = 0;
+		vrLen = 775;
+		vrLoc = 551;
+	};
+	95F32B9912C4181D00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 36";
+		rLen = 0;
+		rLoc = 734;
+		rType = 0;
+		vrLen = 726;
+		vrLoc = 442;
+	};
+	95F32BA012C418F100D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 101";
+		rLen = 0;
+		rLoc = 2289;
+		rType = 0;
+		vrLen = 764;
+		vrLoc = 1533;
+	};
+	95F32BA212C4199700D3375D /* TapjoyConnect.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3274, 1976}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1863}";
+		};
+	};
+	95F32BA312C4199700D3375D /* TapjoyConnect.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 5356}}";
+			sepNavSelRange = "{103, 0}";
+			sepNavVisRange = "{0, 938}";
+		};
+	};
+	95F32BAA12C419BA00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24DD6CF81134B3F500162E58 /* ComTapjoyModule.m */;
+		name = "ComTapjoyModule.m: 101";
+		rLen = 0;
+		rLoc = 2289;
+		rType = 0;
+		vrLen = 708;
+		vrLoc = 0;
+	};
+	95F32BAB12C419BA00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32BA312C4199700D3375D /* TapjoyConnect.m */;
+		name = "TapjoyConnect.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 826;
+		vrLoc = 0;
+	};
+	95F32BAC12C419BA00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32BA312C4199700D3375D /* TapjoyConnect.m */;
+		name = "TapjoyConnect.m: 9";
+		rLen = 0;
+		rLoc = 103;
+		rType = 0;
+		vrLen = 849;
+		vrLoc = 0;
+	};
+	95F32BAD12C419DB00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32BA212C4199700D3375D /* TapjoyConnect.h */;
+		name = "TapjoyConnect.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1863;
+		vrLoc = 0;
+	};
+	95F32BAE12C419DB00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32BA312C4199700D3375D /* TapjoyConnect.m */;
+		name = "TapjoyConnect.m: 9";
+		rLen = 0;
+		rLoc = 103;
+		rType = 0;
+		vrLen = 826;
+		vrLoc = 0;
+	};
+	95F32BAF12C419DB00D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32BA312C4199700D3375D /* TapjoyConnect.m */;
+		name = "TapjoyConnect.m: 7";
+		rLen = 0;
+		rLoc = 103;
+		rType = 0;
+		vrLen = 938;
+		vrLoc = 0;
+	};
+	95F32BB412C419E700D3375D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 95F32BA312C4199700D3375D /* TapjoyConnect.m */;
+		name = "TapjoyConnect.m: 7";
+		rLen = 0;
+		rLoc = 103;
+		rType = 0;
+		vrLen = 938;
+		vrLoc = 0;
+	};
+	AA747D9E0F9514B9006C5449 /* ComTapjoy_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 474}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 62}";
+		};
+	};
+	D2AAC07D0554694100DB518D /* tapjoy */ = {
+		activeExec = 0;
+	};
+}
